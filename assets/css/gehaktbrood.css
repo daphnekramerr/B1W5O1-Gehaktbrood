@@ -9,7 +9,20 @@ p{
     line-height: 32px;
 }
 
+h2{
+    font-size: 32px;
+    line-height: 32px;
+}
 
+h3{
+    font-size: 32px;
+    line-height: 32px;
+}
+
+h4{
+    font-size: 32px;
+    line-height: 32px;
+}
 
 .center{
     font-family: 'Roboto', sans-serif;
@@ -23,8 +36,6 @@ p{
 
 }
 
-
-
 .btn-group button {
     background-color: #65a578;
     border: 1px solid black;
@@ -34,11 +45,6 @@ p{
     width: 20%;
     display: block;      
 }
-.btn-group:after {
-    content: "";
-    clear: both;
-    display: table;
-  }
       
 
 .btn-group button:hover {
@@ -58,9 +64,13 @@ img{
 }
 
 ul li{
+    font-size: 20px;
+    line-height: 26px;
     padding: 10px;
 }
 
 ol li{
+    font-size: 20px;
+    line-height: 26px;
     padding: 20px;
 }
